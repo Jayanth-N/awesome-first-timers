@@ -444,6 +444,11 @@
   Github: [subhamtandon](https://github.com/subhamtandon)
   Facebook: [Subham Tandon](https://www.facebook.com/profile.php?id=100008867413038)
   
+  - Name: Jayanth
+  Place: Allahabad, India
+  Bio: student,Web developer  
+  GitHub: [Jayanth-N](https://github.com/Jayanth-N)
+  
 - Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
